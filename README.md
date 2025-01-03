@@ -1,6 +1,6 @@
 # OrcaNeptuneMAXStartScript
 A custom start (gcode)script for the Elegoo Neptune MAX (3 and 4) printers for use in Orca Slicer. Lets the heat bed stabilize before printing and waits (semi)dynamically for the bed to be stable.
-> Please note that in order to see the messages in the console [[respond]] needs to be configured as per [https://www.klipper3d.org/Config_Reference.html#respond](https://www.klipper3d.org/Config_Reference.html#respond)
+> Please note that in order to see the messages in the console [respond] needs to be configured as per [https://www.klipper3d.org/Config_Reference.html#respond](https://www.klipper3d.org/Config_Reference.html#respond)
 
 Copy paste from the Orca_Start.gcode file into Orca Slicers start gcode field.
 Adjust to your liking
